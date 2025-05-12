@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/Jagadee33/Leet_Code/tree/master/0001-two-sum) |
 | [0209-minimum-size-subarray-sum](https://github.com/Jagadee33/Leet_Code/tree/master/0209-minimum-size-subarray-sum) |
 | [0643-maximum-average-subarray-i](https://github.com/Jagadee33/Leet_Code/tree/master/0643-maximum-average-subarray-i) |
+| [0792-binary-search](https://github.com/Jagadee33/Leet_Code/tree/master/0792-binary-search) |
 ## Hash Table
 |  |
 | ------- |
@@ -20,6 +21,7 @@
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Jagadee33/Leet_Code/tree/master/0209-minimum-size-subarray-sum) |
+| [0792-binary-search](https://github.com/Jagadee33/Leet_Code/tree/master/0792-binary-search) |
 ## Prefix Sum
 |  |
 | ------- |

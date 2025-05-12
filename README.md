@@ -30,6 +30,7 @@
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Jagadee33/Leet_Code/tree/master/0070-climbing-stairs) |
+| [0326-power-of-three](https://github.com/Jagadee33/Leet_Code/tree/master/0326-power-of-three) |
 | [1013-fibonacci-number](https://github.com/Jagadee33/Leet_Code/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/Jagadee33/Leet_Code/tree/master/1236-n-th-tribonacci-number) |
 ## Dynamic Programming
@@ -41,6 +42,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0326-power-of-three](https://github.com/Jagadee33/Leet_Code/tree/master/0326-power-of-three) |
 | [1013-fibonacci-number](https://github.com/Jagadee33/Leet_Code/tree/master/1013-fibonacci-number) |
 ## Memoization
 |  |

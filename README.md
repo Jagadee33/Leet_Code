@@ -12,6 +12,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Jagadee33/Leet_Code/tree/master/0001-two-sum) |
+| [0202-happy-number](https://github.com/Jagadee33/Leet_Code/tree/master/0202-happy-number) |
 ## Sliding Window
 |  |
 | ------- |
@@ -30,6 +31,7 @@
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Jagadee33/Leet_Code/tree/master/0070-climbing-stairs) |
+| [0202-happy-number](https://github.com/Jagadee33/Leet_Code/tree/master/0202-happy-number) |
 | [0326-power-of-three](https://github.com/Jagadee33/Leet_Code/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Jagadee33/Leet_Code/tree/master/0342-power-of-four) |
 | [1013-fibonacci-number](https://github.com/Jagadee33/Leet_Code/tree/master/1013-fibonacci-number) |
@@ -56,4 +58,8 @@
 |  |
 | ------- |
 | [0342-power-of-four](https://github.com/Jagadee33/Leet_Code/tree/master/0342-power-of-four) |
+## Two Pointers
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/Jagadee33/Leet_Code/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->

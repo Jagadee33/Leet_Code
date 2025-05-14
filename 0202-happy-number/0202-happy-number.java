@@ -1,5 +1,5 @@
 class Solution {
-    public int getnewnum(int n){
+    private int getnewnum(int n){
         int output = 0;
         while(n>0){
             int digit = n % 10;

@@ -10,6 +10,7 @@
 | [0229-majority-element-ii](https://github.com/Jagadee33/Leet_Code/tree/master/0229-majority-element-ii) |
 | [0643-maximum-average-subarray-i](https://github.com/Jagadee33/Leet_Code/tree/master/0643-maximum-average-subarray-i) |
 | [0792-binary-search](https://github.com/Jagadee33/Leet_Code/tree/master/0792-binary-search) |
+| [0898-transpose-matrix](https://github.com/Jagadee33/Leet_Code/tree/master/0898-transpose-matrix) |
 | [2486-most-frequent-even-element](https://github.com/Jagadee33/Leet_Code/tree/master/2486-most-frequent-even-element) |
 ## Hash Table
 |  |
@@ -83,4 +84,12 @@
 | ------- |
 | [0169-majority-element](https://github.com/Jagadee33/Leet_Code/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Jagadee33/Leet_Code/tree/master/0229-majority-element-ii) |
+## Matrix
+|  |
+| ------- |
+| [0898-transpose-matrix](https://github.com/Jagadee33/Leet_Code/tree/master/0898-transpose-matrix) |
+## Simulation
+|  |
+| ------- |
+| [0898-transpose-matrix](https://github.com/Jagadee33/Leet_Code/tree/master/0898-transpose-matrix) |
 <!---LeetCode Topics End-->

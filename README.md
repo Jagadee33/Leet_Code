@@ -11,6 +11,7 @@
 | [0643-maximum-average-subarray-i](https://github.com/Jagadee33/Leet_Code/tree/master/0643-maximum-average-subarray-i) |
 | [0792-binary-search](https://github.com/Jagadee33/Leet_Code/tree/master/0792-binary-search) |
 | [0898-transpose-matrix](https://github.com/Jagadee33/Leet_Code/tree/master/0898-transpose-matrix) |
+| [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/Jagadee33/Leet_Code/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [2486-most-frequent-even-element](https://github.com/Jagadee33/Leet_Code/tree/master/2486-most-frequent-even-element) |
 ## Hash Table
 |  |
@@ -30,6 +31,7 @@
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Jagadee33/Leet_Code/tree/master/0209-minimum-size-subarray-sum) |
 | [0792-binary-search](https://github.com/Jagadee33/Leet_Code/tree/master/0792-binary-search) |
+| [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/Jagadee33/Leet_Code/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -88,6 +90,7 @@
 |  |
 | ------- |
 | [0898-transpose-matrix](https://github.com/Jagadee33/Leet_Code/tree/master/0898-transpose-matrix) |
+| [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/Jagadee33/Leet_Code/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 ## Simulation
 |  |
 | ------- |

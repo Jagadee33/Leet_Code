@@ -16,6 +16,7 @@
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/Jagadee33/Leet_Code/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/Jagadee33/Leet_Code/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2486-most-frequent-even-element](https://github.com/Jagadee33/Leet_Code/tree/master/2486-most-frequent-even-element) |
+| [3321-type-of-triangle](https://github.com/Jagadee33/Leet_Code/tree/master/3321-type-of-triangle) |
 ## Hash Table
 |  |
 | ------- |
@@ -53,6 +54,7 @@
 | [1013-fibonacci-number](https://github.com/Jagadee33/Leet_Code/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/Jagadee33/Leet_Code/tree/master/1236-n-th-tribonacci-number) |
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/Jagadee33/Leet_Code/tree/master/1378-cells-with-odd-values-in-a-matrix) |
+| [3321-type-of-triangle](https://github.com/Jagadee33/Leet_Code/tree/master/3321-type-of-triangle) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -98,6 +100,7 @@
 | [0217-contains-duplicate](https://github.com/Jagadee33/Leet_Code/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/Jagadee33/Leet_Code/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Jagadee33/Leet_Code/tree/master/0242-valid-anagram) |
+| [3321-type-of-triangle](https://github.com/Jagadee33/Leet_Code/tree/master/3321-type-of-triangle) |
 ## Matrix
 |  |
 | ------- |

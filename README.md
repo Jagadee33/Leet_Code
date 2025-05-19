@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/Jagadee33/Leet_Code/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/Jagadee33/Leet_Code/tree/master/0169-majority-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/Jagadee33/Leet_Code/tree/master/0209-minimum-size-subarray-sum) |
+| [0217-contains-duplicate](https://github.com/Jagadee33/Leet_Code/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/Jagadee33/Leet_Code/tree/master/0229-majority-element-ii) |
 | [0643-maximum-average-subarray-i](https://github.com/Jagadee33/Leet_Code/tree/master/0643-maximum-average-subarray-i) |
 | [0792-binary-search](https://github.com/Jagadee33/Leet_Code/tree/master/0792-binary-search) |
@@ -21,6 +22,7 @@
 | [0001-two-sum](https://github.com/Jagadee33/Leet_Code/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/Jagadee33/Leet_Code/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/Jagadee33/Leet_Code/tree/master/0202-happy-number) |
+| [0217-contains-duplicate](https://github.com/Jagadee33/Leet_Code/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/Jagadee33/Leet_Code/tree/master/0229-majority-element-ii) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Jagadee33/Leet_Code/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/Jagadee33/Leet_Code/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
@@ -92,6 +94,7 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Jagadee33/Leet_Code/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/Jagadee33/Leet_Code/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/Jagadee33/Leet_Code/tree/master/0229-majority-element-ii) |
 ## Matrix
 |  |

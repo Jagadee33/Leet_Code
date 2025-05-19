@@ -24,6 +24,7 @@
 | [0202-happy-number](https://github.com/Jagadee33/Leet_Code/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/Jagadee33/Leet_Code/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/Jagadee33/Leet_Code/tree/master/0229-majority-element-ii) |
+| [0242-valid-anagram](https://github.com/Jagadee33/Leet_Code/tree/master/0242-valid-anagram) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Jagadee33/Leet_Code/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/Jagadee33/Leet_Code/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2486-most-frequent-even-element](https://github.com/Jagadee33/Leet_Code/tree/master/2486-most-frequent-even-element) |
@@ -96,6 +97,7 @@
 | [0169-majority-element](https://github.com/Jagadee33/Leet_Code/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Jagadee33/Leet_Code/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/Jagadee33/Leet_Code/tree/master/0229-majority-element-ii) |
+| [0242-valid-anagram](https://github.com/Jagadee33/Leet_Code/tree/master/0242-valid-anagram) |
 ## Matrix
 |  |
 | ------- |
@@ -109,5 +111,6 @@
 ## String
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/Jagadee33/Leet_Code/tree/master/0242-valid-anagram) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Jagadee33/Leet_Code/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 <!---LeetCode Topics End-->

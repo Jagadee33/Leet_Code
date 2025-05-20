@@ -52,6 +52,7 @@
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/Jagadee33/Leet_Code/tree/master/0009-palindrome-number) |
 | [0070-climbing-stairs](https://github.com/Jagadee33/Leet_Code/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/Jagadee33/Leet_Code/tree/master/0202-happy-number) |
 | [0326-power-of-three](https://github.com/Jagadee33/Leet_Code/tree/master/0326-power-of-three) |

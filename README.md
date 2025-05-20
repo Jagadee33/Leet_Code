@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Jagadee33/Leet_Code/tree/master/0001-two-sum) |
+| [0073-set-matrix-zeroes](https://github.com/Jagadee33/Leet_Code/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/Jagadee33/Leet_Code/tree/master/0169-majority-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/Jagadee33/Leet_Code/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/Jagadee33/Leet_Code/tree/master/0217-contains-duplicate) |
@@ -22,6 +23,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Jagadee33/Leet_Code/tree/master/0001-two-sum) |
+| [0073-set-matrix-zeroes](https://github.com/Jagadee33/Leet_Code/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/Jagadee33/Leet_Code/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/Jagadee33/Leet_Code/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/Jagadee33/Leet_Code/tree/master/0217-contains-duplicate) |
@@ -105,6 +107,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/Jagadee33/Leet_Code/tree/master/0073-set-matrix-zeroes) |
 | [0777-toeplitz-matrix](https://github.com/Jagadee33/Leet_Code/tree/master/0777-toeplitz-matrix) |
 | [0898-transpose-matrix](https://github.com/Jagadee33/Leet_Code/tree/master/0898-transpose-matrix) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/Jagadee33/Leet_Code/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |

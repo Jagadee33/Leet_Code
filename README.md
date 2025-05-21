@@ -63,6 +63,7 @@
 | [1013-fibonacci-number](https://github.com/Jagadee33/Leet_Code/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/Jagadee33/Leet_Code/tree/master/1236-n-th-tribonacci-number) |
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/Jagadee33/Leet_Code/tree/master/1378-cells-with-odd-values-in-a-matrix) |
+| [2037-count-square-sum-triples](https://github.com/Jagadee33/Leet_Code/tree/master/2037-count-square-sum-triples) |
 | [3321-type-of-triangle](https://github.com/Jagadee33/Leet_Code/tree/master/3321-type-of-triangle) |
 ## Dynamic Programming
 |  |
@@ -130,4 +131,8 @@
 | [0067-add-binary](https://github.com/Jagadee33/Leet_Code/tree/master/0067-add-binary) |
 | [0242-valid-anagram](https://github.com/Jagadee33/Leet_Code/tree/master/0242-valid-anagram) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Jagadee33/Leet_Code/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
+## Enumeration
+|  |
+| ------- |
+| [2037-count-square-sum-triples](https://github.com/Jagadee33/Leet_Code/tree/master/2037-count-square-sum-triples) |
 <!---LeetCode Topics End-->

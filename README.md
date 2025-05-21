@@ -18,6 +18,7 @@
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/Jagadee33/Leet_Code/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/Jagadee33/Leet_Code/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2486-most-frequent-even-element](https://github.com/Jagadee33/Leet_Code/tree/master/2486-most-frequent-even-element) |
+| [2566-number-of-unequal-triplets-in-array](https://github.com/Jagadee33/Leet_Code/tree/master/2566-number-of-unequal-triplets-in-array) |
 | [3321-type-of-triangle](https://github.com/Jagadee33/Leet_Code/tree/master/3321-type-of-triangle) |
 | [3639-zero-array-transformation-i](https://github.com/Jagadee33/Leet_Code/tree/master/3639-zero-array-transformation-i) |
 ## Hash Table
@@ -33,6 +34,7 @@
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Jagadee33/Leet_Code/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/Jagadee33/Leet_Code/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2486-most-frequent-even-element](https://github.com/Jagadee33/Leet_Code/tree/master/2486-most-frequent-even-element) |
+| [2566-number-of-unequal-triplets-in-array](https://github.com/Jagadee33/Leet_Code/tree/master/2566-number-of-unequal-triplets-in-array) |
 ## Sliding Window
 |  |
 | ------- |
@@ -111,6 +113,7 @@
 | [0217-contains-duplicate](https://github.com/Jagadee33/Leet_Code/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/Jagadee33/Leet_Code/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Jagadee33/Leet_Code/tree/master/0242-valid-anagram) |
+| [2566-number-of-unequal-triplets-in-array](https://github.com/Jagadee33/Leet_Code/tree/master/2566-number-of-unequal-triplets-in-array) |
 | [3321-type-of-triangle](https://github.com/Jagadee33/Leet_Code/tree/master/3321-type-of-triangle) |
 ## Matrix
 |  |

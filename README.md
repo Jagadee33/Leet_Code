@@ -16,6 +16,7 @@
 | [0898-transpose-matrix](https://github.com/Jagadee33/Leet_Code/tree/master/0898-transpose-matrix) |
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/Jagadee33/Leet_Code/tree/master/1378-cells-with-odd-values-in-a-matrix) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/Jagadee33/Leet_Code/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
+| [2106-find-greatest-common-divisor-of-array](https://github.com/Jagadee33/Leet_Code/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/Jagadee33/Leet_Code/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2486-most-frequent-even-element](https://github.com/Jagadee33/Leet_Code/tree/master/2486-most-frequent-even-element) |
 | [2566-number-of-unequal-triplets-in-array](https://github.com/Jagadee33/Leet_Code/tree/master/2566-number-of-unequal-triplets-in-array) |
@@ -69,6 +70,7 @@
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/Jagadee33/Leet_Code/tree/master/1378-cells-with-odd-values-in-a-matrix) |
 | [2037-count-square-sum-triples](https://github.com/Jagadee33/Leet_Code/tree/master/2037-count-square-sum-triples) |
 | [2083-three-divisors](https://github.com/Jagadee33/Leet_Code/tree/master/2083-three-divisors) |
+| [2106-find-greatest-common-divisor-of-array](https://github.com/Jagadee33/Leet_Code/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [3321-type-of-triangle](https://github.com/Jagadee33/Leet_Code/tree/master/3321-type-of-triangle) |
 ## Dynamic Programming
 |  |
@@ -155,4 +157,5 @@
 |  |
 | ------- |
 | [2083-three-divisors](https://github.com/Jagadee33/Leet_Code/tree/master/2083-three-divisors) |
+| [2106-find-greatest-common-divisor-of-array](https://github.com/Jagadee33/Leet_Code/tree/master/2106-find-greatest-common-divisor-of-array) |
 <!---LeetCode Topics End-->

@@ -63,6 +63,7 @@
 | [0067-add-binary](https://github.com/Jagadee33/Leet_Code/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/Jagadee33/Leet_Code/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Jagadee33/Leet_Code/tree/master/0070-climbing-stairs) |
+| [0171-excel-sheet-column-number](https://github.com/Jagadee33/Leet_Code/tree/master/0171-excel-sheet-column-number) |
 | [0202-happy-number](https://github.com/Jagadee33/Leet_Code/tree/master/0202-happy-number) |
 | [0326-power-of-three](https://github.com/Jagadee33/Leet_Code/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Jagadee33/Leet_Code/tree/master/0342-power-of-four) |
@@ -144,6 +145,7 @@
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Jagadee33/Leet_Code/tree/master/0067-add-binary) |
+| [0171-excel-sheet-column-number](https://github.com/Jagadee33/Leet_Code/tree/master/0171-excel-sheet-column-number) |
 | [0242-valid-anagram](https://github.com/Jagadee33/Leet_Code/tree/master/0242-valid-anagram) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/Jagadee33/Leet_Code/tree/master/1146-greatest-common-divisor-of-strings) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Jagadee33/Leet_Code/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |

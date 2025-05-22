@@ -68,6 +68,7 @@
 | [1236-n-th-tribonacci-number](https://github.com/Jagadee33/Leet_Code/tree/master/1236-n-th-tribonacci-number) |
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/Jagadee33/Leet_Code/tree/master/1378-cells-with-odd-values-in-a-matrix) |
 | [2037-count-square-sum-triples](https://github.com/Jagadee33/Leet_Code/tree/master/2037-count-square-sum-triples) |
+| [2083-three-divisors](https://github.com/Jagadee33/Leet_Code/tree/master/2083-three-divisors) |
 | [3321-type-of-triangle](https://github.com/Jagadee33/Leet_Code/tree/master/3321-type-of-triangle) |
 ## Dynamic Programming
 |  |
@@ -141,6 +142,7 @@
 |  |
 | ------- |
 | [2037-count-square-sum-triples](https://github.com/Jagadee33/Leet_Code/tree/master/2037-count-square-sum-triples) |
+| [2083-three-divisors](https://github.com/Jagadee33/Leet_Code/tree/master/2083-three-divisors) |
 ## Greedy
 |  |
 | ------- |
@@ -149,4 +151,8 @@
 |  |
 | ------- |
 | [3647-zero-array-transformation-iii](https://github.com/Jagadee33/Leet_Code/tree/master/3647-zero-array-transformation-iii) |
+## Number Theory
+|  |
+| ------- |
+| [2083-three-divisors](https://github.com/Jagadee33/Leet_Code/tree/master/2083-three-divisors) |
 <!---LeetCode Topics End-->

@@ -75,6 +75,7 @@
 | [2037-count-square-sum-triples](https://github.com/Jagadee33/Leet_Code/tree/master/2037-count-square-sum-triples) |
 | [2083-three-divisors](https://github.com/Jagadee33/Leet_Code/tree/master/2083-three-divisors) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/Jagadee33/Leet_Code/tree/master/2106-find-greatest-common-divisor-of-array) |
+| [2238-a-number-after-a-double-reversal](https://github.com/Jagadee33/Leet_Code/tree/master/2238-a-number-after-a-double-reversal) |
 | [2491-smallest-even-multiple](https://github.com/Jagadee33/Leet_Code/tree/master/2491-smallest-even-multiple) |
 | [2556-convert-the-temperature](https://github.com/Jagadee33/Leet_Code/tree/master/2556-convert-the-temperature) |
 | [3321-type-of-triangle](https://github.com/Jagadee33/Leet_Code/tree/master/3321-type-of-triangle) |

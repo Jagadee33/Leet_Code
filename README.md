@@ -50,6 +50,7 @@
 | ------- |
 | [0069-sqrtx](https://github.com/Jagadee33/Leet_Code/tree/master/0069-sqrtx) |
 | [0209-minimum-size-subarray-sum](https://github.com/Jagadee33/Leet_Code/tree/master/0209-minimum-size-subarray-sum) |
+| [0367-valid-perfect-square](https://github.com/Jagadee33/Leet_Code/tree/master/0367-valid-perfect-square) |
 | [0792-binary-search](https://github.com/Jagadee33/Leet_Code/tree/master/0792-binary-search) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/Jagadee33/Leet_Code/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 ## Prefix Sum
@@ -69,6 +70,7 @@
 | [0202-happy-number](https://github.com/Jagadee33/Leet_Code/tree/master/0202-happy-number) |
 | [0326-power-of-three](https://github.com/Jagadee33/Leet_Code/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Jagadee33/Leet_Code/tree/master/0342-power-of-four) |
+| [0367-valid-perfect-square](https://github.com/Jagadee33/Leet_Code/tree/master/0367-valid-perfect-square) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Jagadee33/Leet_Code/tree/master/0628-maximum-product-of-three-numbers) |
 | [1013-fibonacci-number](https://github.com/Jagadee33/Leet_Code/tree/master/1013-fibonacci-number) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/Jagadee33/Leet_Code/tree/master/1146-greatest-common-divisor-of-strings) |

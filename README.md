@@ -22,6 +22,7 @@
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/Jagadee33/Leet_Code/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2486-most-frequent-even-element](https://github.com/Jagadee33/Leet_Code/tree/master/2486-most-frequent-even-element) |
 | [2566-number-of-unequal-triplets-in-array](https://github.com/Jagadee33/Leet_Code/tree/master/2566-number-of-unequal-triplets-in-array) |
+| [2844-sum-of-squares-of-special-elements](https://github.com/Jagadee33/Leet_Code/tree/master/2844-sum-of-squares-of-special-elements) |
 | [3321-type-of-triangle](https://github.com/Jagadee33/Leet_Code/tree/master/3321-type-of-triangle) |
 | [3639-zero-array-transformation-i](https://github.com/Jagadee33/Leet_Code/tree/master/3639-zero-array-transformation-i) |
 | [3647-zero-array-transformation-iii](https://github.com/Jagadee33/Leet_Code/tree/master/3647-zero-array-transformation-iii) |
@@ -162,6 +163,7 @@
 | ------- |
 | [2037-count-square-sum-triples](https://github.com/Jagadee33/Leet_Code/tree/master/2037-count-square-sum-triples) |
 | [2083-three-divisors](https://github.com/Jagadee33/Leet_Code/tree/master/2083-three-divisors) |
+| [2844-sum-of-squares-of-special-elements](https://github.com/Jagadee33/Leet_Code/tree/master/2844-sum-of-squares-of-special-elements) |
 ## Greedy
 |  |
 | ------- |

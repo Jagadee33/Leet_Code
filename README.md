@@ -65,6 +65,7 @@
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Jagadee33/Leet_Code/tree/master/0209-minimum-size-subarray-sum) |
 | [0303-range-sum-query-immutable](https://github.com/Jagadee33/Leet_Code/tree/master/0303-range-sum-query-immutable) |
+| [2571-find-the-pivot-integer](https://github.com/Jagadee33/Leet_Code/tree/master/2571-find-the-pivot-integer) |
 | [3639-zero-array-transformation-i](https://github.com/Jagadee33/Leet_Code/tree/master/3639-zero-array-transformation-i) |
 | [3647-zero-array-transformation-iii](https://github.com/Jagadee33/Leet_Code/tree/master/3647-zero-array-transformation-iii) |
 ## Math
@@ -91,6 +92,7 @@
 | [2238-a-number-after-a-double-reversal](https://github.com/Jagadee33/Leet_Code/tree/master/2238-a-number-after-a-double-reversal) |
 | [2491-smallest-even-multiple](https://github.com/Jagadee33/Leet_Code/tree/master/2491-smallest-even-multiple) |
 | [2556-convert-the-temperature](https://github.com/Jagadee33/Leet_Code/tree/master/2556-convert-the-temperature) |
+| [2571-find-the-pivot-integer](https://github.com/Jagadee33/Leet_Code/tree/master/2571-find-the-pivot-integer) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/Jagadee33/Leet_Code/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3321-type-of-triangle](https://github.com/Jagadee33/Leet_Code/tree/master/3321-type-of-triangle) |
 ## Dynamic Programming

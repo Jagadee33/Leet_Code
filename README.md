@@ -89,6 +89,7 @@
 | [2238-a-number-after-a-double-reversal](https://github.com/Jagadee33/Leet_Code/tree/master/2238-a-number-after-a-double-reversal) |
 | [2491-smallest-even-multiple](https://github.com/Jagadee33/Leet_Code/tree/master/2491-smallest-even-multiple) |
 | [2556-convert-the-temperature](https://github.com/Jagadee33/Leet_Code/tree/master/2556-convert-the-temperature) |
+| [3172-divisible-and-non-divisible-sums-difference](https://github.com/Jagadee33/Leet_Code/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3321-type-of-triangle](https://github.com/Jagadee33/Leet_Code/tree/master/3321-type-of-triangle) |
 ## Dynamic Programming
 |  |

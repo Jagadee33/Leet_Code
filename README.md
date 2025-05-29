@@ -12,6 +12,7 @@
 | [0217-contains-duplicate](https://github.com/Jagadee33/Leet_Code/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/Jagadee33/Leet_Code/tree/master/0229-majority-element-ii) |
 | [0303-range-sum-query-immutable](https://github.com/Jagadee33/Leet_Code/tree/master/0303-range-sum-query-immutable) |
+| [0349-intersection-of-two-arrays](https://github.com/Jagadee33/Leet_Code/tree/master/0349-intersection-of-two-arrays) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Jagadee33/Leet_Code/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/Jagadee33/Leet_Code/tree/master/0643-maximum-average-subarray-i) |
 | [0777-toeplitz-matrix](https://github.com/Jagadee33/Leet_Code/tree/master/0777-toeplitz-matrix) |
@@ -43,6 +44,7 @@
 | [0217-contains-duplicate](https://github.com/Jagadee33/Leet_Code/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/Jagadee33/Leet_Code/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Jagadee33/Leet_Code/tree/master/0242-valid-anagram) |
+| [0349-intersection-of-two-arrays](https://github.com/Jagadee33/Leet_Code/tree/master/0349-intersection-of-two-arrays) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Jagadee33/Leet_Code/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/Jagadee33/Leet_Code/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Jagadee33/Leet_Code/tree/master/2163-kth-distinct-string-in-an-array) |
@@ -62,6 +64,7 @@
 | ------- |
 | [0069-sqrtx](https://github.com/Jagadee33/Leet_Code/tree/master/0069-sqrtx) |
 | [0209-minimum-size-subarray-sum](https://github.com/Jagadee33/Leet_Code/tree/master/0209-minimum-size-subarray-sum) |
+| [0349-intersection-of-two-arrays](https://github.com/Jagadee33/Leet_Code/tree/master/0349-intersection-of-two-arrays) |
 | [0367-valid-perfect-square](https://github.com/Jagadee33/Leet_Code/tree/master/0367-valid-perfect-square) |
 | [0633-sum-of-square-numbers](https://github.com/Jagadee33/Leet_Code/tree/master/0633-sum-of-square-numbers) |
 | [0792-binary-search](https://github.com/Jagadee33/Leet_Code/tree/master/0792-binary-search) |
@@ -129,6 +132,7 @@
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/Jagadee33/Leet_Code/tree/master/0202-happy-number) |
+| [0349-intersection-of-two-arrays](https://github.com/Jagadee33/Leet_Code/tree/master/0349-intersection-of-two-arrays) |
 | [0633-sum-of-square-numbers](https://github.com/Jagadee33/Leet_Code/tree/master/0633-sum-of-square-numbers) |
 ## Counting
 |  |
@@ -152,6 +156,7 @@
 | [0217-contains-duplicate](https://github.com/Jagadee33/Leet_Code/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/Jagadee33/Leet_Code/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Jagadee33/Leet_Code/tree/master/0242-valid-anagram) |
+| [0349-intersection-of-two-arrays](https://github.com/Jagadee33/Leet_Code/tree/master/0349-intersection-of-two-arrays) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Jagadee33/Leet_Code/tree/master/0628-maximum-product-of-three-numbers) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Jagadee33/Leet_Code/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/Jagadee33/Leet_Code/tree/master/2210-find-target-indices-after-sorting-array) |

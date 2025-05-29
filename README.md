@@ -24,6 +24,7 @@
 | [2163-kth-distinct-string-in-an-array](https://github.com/Jagadee33/Leet_Code/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/Jagadee33/Leet_Code/tree/master/2190-count-common-words-with-one-occurrence) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Jagadee33/Leet_Code/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
+| [2210-find-target-indices-after-sorting-array](https://github.com/Jagadee33/Leet_Code/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2486-most-frequent-even-element](https://github.com/Jagadee33/Leet_Code/tree/master/2486-most-frequent-even-element) |
 | [2566-number-of-unequal-triplets-in-array](https://github.com/Jagadee33/Leet_Code/tree/master/2566-number-of-unequal-triplets-in-array) |
 | [2844-sum-of-squares-of-special-elements](https://github.com/Jagadee33/Leet_Code/tree/master/2844-sum-of-squares-of-special-elements) |
@@ -65,6 +66,7 @@
 | [0633-sum-of-square-numbers](https://github.com/Jagadee33/Leet_Code/tree/master/0633-sum-of-square-numbers) |
 | [0792-binary-search](https://github.com/Jagadee33/Leet_Code/tree/master/0792-binary-search) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/Jagadee33/Leet_Code/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
+| [2210-find-target-indices-after-sorting-array](https://github.com/Jagadee33/Leet_Code/tree/master/2210-find-target-indices-after-sorting-array) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -152,6 +154,7 @@
 | [0242-valid-anagram](https://github.com/Jagadee33/Leet_Code/tree/master/0242-valid-anagram) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Jagadee33/Leet_Code/tree/master/0628-maximum-product-of-three-numbers) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Jagadee33/Leet_Code/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
+| [2210-find-target-indices-after-sorting-array](https://github.com/Jagadee33/Leet_Code/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2566-number-of-unequal-triplets-in-array](https://github.com/Jagadee33/Leet_Code/tree/master/2566-number-of-unequal-triplets-in-array) |
 | [3321-type-of-triangle](https://github.com/Jagadee33/Leet_Code/tree/master/3321-type-of-triangle) |
 | [3647-zero-array-transformation-iii](https://github.com/Jagadee33/Leet_Code/tree/master/3647-zero-array-transformation-iii) |

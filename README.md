@@ -134,6 +134,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/Jagadee33/Leet_Code/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0202-happy-number](https://github.com/Jagadee33/Leet_Code/tree/master/0202-happy-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Jagadee33/Leet_Code/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Jagadee33/Leet_Code/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -219,4 +220,8 @@
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/Jagadee33/Leet_Code/tree/master/0303-range-sum-query-immutable) |
+## Linked List
+|  |
+| ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/Jagadee33/Leet_Code/tree/master/0019-remove-nth-node-from-end-of-list) |
 <!---LeetCode Topics End-->

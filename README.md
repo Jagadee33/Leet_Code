@@ -117,6 +117,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0024-swap-nodes-in-pairs](https://github.com/Jagadee33/Leet_Code/tree/master/0024-swap-nodes-in-pairs) |
 | [0326-power-of-three](https://github.com/Jagadee33/Leet_Code/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Jagadee33/Leet_Code/tree/master/0342-power-of-four) |
 | [1013-fibonacci-number](https://github.com/Jagadee33/Leet_Code/tree/master/1013-fibonacci-number) |
@@ -225,5 +226,6 @@
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Jagadee33/Leet_Code/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0024-swap-nodes-in-pairs](https://github.com/Jagadee33/Leet_Code/tree/master/0024-swap-nodes-in-pairs) |
 | [0528-swapping-nodes-in-a-linked-list](https://github.com/Jagadee33/Leet_Code/tree/master/0528-swapping-nodes-in-a-linked-list) |
 <!---LeetCode Topics End-->

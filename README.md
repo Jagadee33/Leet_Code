@@ -138,6 +138,7 @@
 | [0202-happy-number](https://github.com/Jagadee33/Leet_Code/tree/master/0202-happy-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Jagadee33/Leet_Code/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Jagadee33/Leet_Code/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0528-swapping-nodes-in-a-linked-list](https://github.com/Jagadee33/Leet_Code/tree/master/0528-swapping-nodes-in-a-linked-list) |
 | [0633-sum-of-square-numbers](https://github.com/Jagadee33/Leet_Code/tree/master/0633-sum-of-square-numbers) |
 ## Counting
 |  |
@@ -224,4 +225,5 @@
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Jagadee33/Leet_Code/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0528-swapping-nodes-in-a-linked-list](https://github.com/Jagadee33/Leet_Code/tree/master/0528-swapping-nodes-in-a-linked-list) |
 <!---LeetCode Topics End-->

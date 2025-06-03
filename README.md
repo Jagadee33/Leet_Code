@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Jagadee33/Leet_Code/tree/master/0001-two-sum) |
+| [0027-remove-element](https://github.com/Jagadee33/Leet_Code/tree/master/0027-remove-element) |
 | [0041-first-missing-positive](https://github.com/Jagadee33/Leet_Code/tree/master/0041-first-missing-positive) |
 | [0073-set-matrix-zeroes](https://github.com/Jagadee33/Leet_Code/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/Jagadee33/Leet_Code/tree/master/0169-majority-element) |
@@ -136,6 +137,7 @@
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Jagadee33/Leet_Code/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0027-remove-element](https://github.com/Jagadee33/Leet_Code/tree/master/0027-remove-element) |
 | [0202-happy-number](https://github.com/Jagadee33/Leet_Code/tree/master/0202-happy-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Jagadee33/Leet_Code/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Jagadee33/Leet_Code/tree/master/0350-intersection-of-two-arrays-ii) |

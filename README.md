@@ -49,6 +49,7 @@
 | [0242-valid-anagram](https://github.com/Jagadee33/Leet_Code/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/Jagadee33/Leet_Code/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Jagadee33/Leet_Code/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0383-ransom-note](https://github.com/Jagadee33/Leet_Code/tree/master/0383-ransom-note) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Jagadee33/Leet_Code/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/Jagadee33/Leet_Code/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Jagadee33/Leet_Code/tree/master/2163-kth-distinct-string-in-an-array) |
@@ -149,6 +150,7 @@
 | ------- |
 | [0169-majority-element](https://github.com/Jagadee33/Leet_Code/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Jagadee33/Leet_Code/tree/master/0229-majority-element-ii) |
+| [0383-ransom-note](https://github.com/Jagadee33/Leet_Code/tree/master/0383-ransom-note) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Jagadee33/Leet_Code/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/Jagadee33/Leet_Code/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Jagadee33/Leet_Code/tree/master/2163-kth-distinct-string-in-an-array) |
@@ -194,6 +196,7 @@
 | [0171-excel-sheet-column-number](https://github.com/Jagadee33/Leet_Code/tree/master/0171-excel-sheet-column-number) |
 | [0205-isomorphic-strings](https://github.com/Jagadee33/Leet_Code/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Jagadee33/Leet_Code/tree/master/0242-valid-anagram) |
+| [0383-ransom-note](https://github.com/Jagadee33/Leet_Code/tree/master/0383-ransom-note) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/Jagadee33/Leet_Code/tree/master/1146-greatest-common-divisor-of-strings) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Jagadee33/Leet_Code/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Jagadee33/Leet_Code/tree/master/2163-kth-distinct-string-in-an-array) |

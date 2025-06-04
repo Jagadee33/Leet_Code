@@ -87,6 +87,7 @@
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Jagadee33/Leet_Code/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/Jagadee33/Leet_Code/tree/master/0009-palindrome-number) |
 | [0067-add-binary](https://github.com/Jagadee33/Leet_Code/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/Jagadee33/Leet_Code/tree/master/0069-sqrtx) |
@@ -120,6 +121,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Jagadee33/Leet_Code/tree/master/0002-add-two-numbers) |
 | [0024-swap-nodes-in-pairs](https://github.com/Jagadee33/Leet_Code/tree/master/0024-swap-nodes-in-pairs) |
 | [0326-power-of-three](https://github.com/Jagadee33/Leet_Code/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Jagadee33/Leet_Code/tree/master/0342-power-of-four) |
@@ -232,6 +234,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Jagadee33/Leet_Code/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Jagadee33/Leet_Code/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0024-swap-nodes-in-pairs](https://github.com/Jagadee33/Leet_Code/tree/master/0024-swap-nodes-in-pairs) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Jagadee33/Leet_Code/tree/master/0083-remove-duplicates-from-sorted-list) |

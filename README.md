@@ -94,6 +94,7 @@
 | [0070-climbing-stairs](https://github.com/Jagadee33/Leet_Code/tree/master/0070-climbing-stairs) |
 | [0171-excel-sheet-column-number](https://github.com/Jagadee33/Leet_Code/tree/master/0171-excel-sheet-column-number) |
 | [0202-happy-number](https://github.com/Jagadee33/Leet_Code/tree/master/0202-happy-number) |
+| [0258-add-digits](https://github.com/Jagadee33/Leet_Code/tree/master/0258-add-digits) |
 | [0326-power-of-three](https://github.com/Jagadee33/Leet_Code/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Jagadee33/Leet_Code/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/Jagadee33/Leet_Code/tree/master/0367-valid-perfect-square) |
@@ -189,6 +190,7 @@
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Jagadee33/Leet_Code/tree/master/0067-add-binary) |
+| [0258-add-digits](https://github.com/Jagadee33/Leet_Code/tree/master/0258-add-digits) |
 | [0898-transpose-matrix](https://github.com/Jagadee33/Leet_Code/tree/master/0898-transpose-matrix) |
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/Jagadee33/Leet_Code/tree/master/1378-cells-with-odd-values-in-a-matrix) |
 ## String
@@ -224,6 +226,7 @@
 ## Number Theory
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/Jagadee33/Leet_Code/tree/master/0258-add-digits) |
 | [2083-three-divisors](https://github.com/Jagadee33/Leet_Code/tree/master/2083-three-divisors) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/Jagadee33/Leet_Code/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2491-smallest-even-multiple](https://github.com/Jagadee33/Leet_Code/tree/master/2491-smallest-even-multiple) |

@@ -114,6 +114,7 @@
 | [2571-find-the-pivot-integer](https://github.com/Jagadee33/Leet_Code/tree/master/2571-find-the-pivot-integer) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/Jagadee33/Leet_Code/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3321-type-of-triangle](https://github.com/Jagadee33/Leet_Code/tree/master/3321-type-of-triangle) |
+| [3859-maximum-product-of-two-digits](https://github.com/Jagadee33/Leet_Code/tree/master/3859-maximum-product-of-two-digits) |
 | [3879-find-minimum-log-transportation-cost](https://github.com/Jagadee33/Leet_Code/tree/master/3879-find-minimum-log-transportation-cost) |
 ## Dynamic Programming
 |  |
@@ -181,6 +182,7 @@
 | [2566-number-of-unequal-triplets-in-array](https://github.com/Jagadee33/Leet_Code/tree/master/2566-number-of-unequal-triplets-in-array) |
 | [3321-type-of-triangle](https://github.com/Jagadee33/Leet_Code/tree/master/3321-type-of-triangle) |
 | [3647-zero-array-transformation-iii](https://github.com/Jagadee33/Leet_Code/tree/master/3647-zero-array-transformation-iii) |
+| [3859-maximum-product-of-two-digits](https://github.com/Jagadee33/Leet_Code/tree/master/3859-maximum-product-of-two-digits) |
 ## Matrix
 |  |
 | ------- |

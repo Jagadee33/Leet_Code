@@ -242,4 +242,20 @@
 | [0024-swap-nodes-in-pairs](https://github.com/Jagadee33/Leet_Code/tree/master/0024-swap-nodes-in-pairs) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Jagadee33/Leet_Code/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0528-swapping-nodes-in-a-linked-list](https://github.com/Jagadee33/Leet_Code/tree/master/0528-swapping-nodes-in-a-linked-list) |
+## Stack
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Jagadee33/Leet_Code/tree/master/0094-binary-tree-inorder-traversal) |
+## Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Jagadee33/Leet_Code/tree/master/0094-binary-tree-inorder-traversal) |
+## Depth-First Search
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Jagadee33/Leet_Code/tree/master/0094-binary-tree-inorder-traversal) |
+## Binary Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Jagadee33/Leet_Code/tree/master/0094-binary-tree-inorder-traversal) |
 <!---LeetCode Topics End-->

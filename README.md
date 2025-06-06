@@ -117,6 +117,7 @@
 | [2571-find-the-pivot-integer](https://github.com/Jagadee33/Leet_Code/tree/master/2571-find-the-pivot-integer) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/Jagadee33/Leet_Code/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3321-type-of-triangle](https://github.com/Jagadee33/Leet_Code/tree/master/3321-type-of-triangle) |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Jagadee33/Leet_Code/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3830-find-closest-person](https://github.com/Jagadee33/Leet_Code/tree/master/3830-find-closest-person) |
 | [3846-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Jagadee33/Leet_Code/tree/master/3846-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3859-maximum-product-of-two-digits](https://github.com/Jagadee33/Leet_Code/tree/master/3859-maximum-product-of-two-digits) |
@@ -202,6 +203,7 @@
 | [0258-add-digits](https://github.com/Jagadee33/Leet_Code/tree/master/0258-add-digits) |
 | [0898-transpose-matrix](https://github.com/Jagadee33/Leet_Code/tree/master/0898-transpose-matrix) |
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/Jagadee33/Leet_Code/tree/master/1378-cells-with-odd-values-in-a-matrix) |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Jagadee33/Leet_Code/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## String
 |  |
 | ------- |
@@ -217,6 +219,7 @@
 | [2186-count-vowel-substrings-of-a-string](https://github.com/Jagadee33/Leet_Code/tree/master/2186-count-vowel-substrings-of-a-string) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/Jagadee33/Leet_Code/tree/master/2190-count-common-words-with-one-occurrence) |
 | [3194-find-words-containing-character](https://github.com/Jagadee33/Leet_Code/tree/master/3194-find-words-containing-character) |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Jagadee33/Leet_Code/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Enumeration
 |  |
 | ------- |
@@ -239,6 +242,7 @@
 | [2083-three-divisors](https://github.com/Jagadee33/Leet_Code/tree/master/2083-three-divisors) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/Jagadee33/Leet_Code/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2491-smallest-even-multiple](https://github.com/Jagadee33/Leet_Code/tree/master/2491-smallest-even-multiple) |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Jagadee33/Leet_Code/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Design
 |  |
 | ------- |
@@ -282,4 +286,8 @@
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/Jagadee33/Leet_Code/tree/master/0098-validate-binary-search-tree) |
+## Combinatorics
+|  |
+| ------- |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Jagadee33/Leet_Code/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 <!---LeetCode Topics End-->

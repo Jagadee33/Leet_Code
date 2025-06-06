@@ -35,6 +35,7 @@
 | [3321-type-of-triangle](https://github.com/Jagadee33/Leet_Code/tree/master/3321-type-of-triangle) |
 | [3639-zero-array-transformation-i](https://github.com/Jagadee33/Leet_Code/tree/master/3639-zero-array-transformation-i) |
 | [3647-zero-array-transformation-iii](https://github.com/Jagadee33/Leet_Code/tree/master/3647-zero-array-transformation-iii) |
+| [3702-maximum-subarray-with-equal-products](https://github.com/Jagadee33/Leet_Code/tree/master/3702-maximum-subarray-with-equal-products) |
 | [3704-count-partitions-with-even-sum-difference](https://github.com/Jagadee33/Leet_Code/tree/master/3704-count-partitions-with-even-sum-difference) |
 | [3846-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Jagadee33/Leet_Code/tree/master/3846-minimum-operations-to-make-array-sum-divisible-by-k) |
 ## Hash Table
@@ -66,6 +67,7 @@
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Jagadee33/Leet_Code/tree/master/0209-minimum-size-subarray-sum) |
 | [0643-maximum-average-subarray-i](https://github.com/Jagadee33/Leet_Code/tree/master/0643-maximum-average-subarray-i) |
+| [3702-maximum-subarray-with-equal-products](https://github.com/Jagadee33/Leet_Code/tree/master/3702-maximum-subarray-with-equal-products) |
 ## Binary Search
 |  |
 | ------- |
@@ -119,6 +121,7 @@
 | [2571-find-the-pivot-integer](https://github.com/Jagadee33/Leet_Code/tree/master/2571-find-the-pivot-integer) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/Jagadee33/Leet_Code/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3321-type-of-triangle](https://github.com/Jagadee33/Leet_Code/tree/master/3321-type-of-triangle) |
+| [3702-maximum-subarray-with-equal-products](https://github.com/Jagadee33/Leet_Code/tree/master/3702-maximum-subarray-with-equal-products) |
 | [3704-count-partitions-with-even-sum-difference](https://github.com/Jagadee33/Leet_Code/tree/master/3704-count-partitions-with-even-sum-difference) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Jagadee33/Leet_Code/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3830-find-closest-person](https://github.com/Jagadee33/Leet_Code/tree/master/3830-find-closest-person) |
@@ -229,6 +232,7 @@
 | [2037-count-square-sum-triples](https://github.com/Jagadee33/Leet_Code/tree/master/2037-count-square-sum-triples) |
 | [2083-three-divisors](https://github.com/Jagadee33/Leet_Code/tree/master/2083-three-divisors) |
 | [2844-sum-of-squares-of-special-elements](https://github.com/Jagadee33/Leet_Code/tree/master/2844-sum-of-squares-of-special-elements) |
+| [3702-maximum-subarray-with-equal-products](https://github.com/Jagadee33/Leet_Code/tree/master/3702-maximum-subarray-with-equal-products) |
 ## Greedy
 |  |
 | ------- |
@@ -245,6 +249,7 @@
 | [2083-three-divisors](https://github.com/Jagadee33/Leet_Code/tree/master/2083-three-divisors) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/Jagadee33/Leet_Code/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2491-smallest-even-multiple](https://github.com/Jagadee33/Leet_Code/tree/master/2491-smallest-even-multiple) |
+| [3702-maximum-subarray-with-equal-products](https://github.com/Jagadee33/Leet_Code/tree/master/3702-maximum-subarray-with-equal-products) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Jagadee33/Leet_Code/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Design
 |  |

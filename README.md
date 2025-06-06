@@ -116,6 +116,7 @@
 | [2571-find-the-pivot-integer](https://github.com/Jagadee33/Leet_Code/tree/master/2571-find-the-pivot-integer) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/Jagadee33/Leet_Code/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3321-type-of-triangle](https://github.com/Jagadee33/Leet_Code/tree/master/3321-type-of-triangle) |
+| [3830-find-closest-person](https://github.com/Jagadee33/Leet_Code/tree/master/3830-find-closest-person) |
 | [3859-maximum-product-of-two-digits](https://github.com/Jagadee33/Leet_Code/tree/master/3859-maximum-product-of-two-digits) |
 | [3879-find-minimum-log-transportation-cost](https://github.com/Jagadee33/Leet_Code/tree/master/3879-find-minimum-log-transportation-cost) |
 ## Dynamic Programming

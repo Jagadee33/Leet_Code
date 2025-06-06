@@ -35,6 +35,7 @@
 | [3321-type-of-triangle](https://github.com/Jagadee33/Leet_Code/tree/master/3321-type-of-triangle) |
 | [3639-zero-array-transformation-i](https://github.com/Jagadee33/Leet_Code/tree/master/3639-zero-array-transformation-i) |
 | [3647-zero-array-transformation-iii](https://github.com/Jagadee33/Leet_Code/tree/master/3647-zero-array-transformation-iii) |
+| [3846-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Jagadee33/Leet_Code/tree/master/3846-minimum-operations-to-make-array-sum-divisible-by-k) |
 ## Hash Table
 |  |
 | ------- |
@@ -117,6 +118,7 @@
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/Jagadee33/Leet_Code/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3321-type-of-triangle](https://github.com/Jagadee33/Leet_Code/tree/master/3321-type-of-triangle) |
 | [3830-find-closest-person](https://github.com/Jagadee33/Leet_Code/tree/master/3830-find-closest-person) |
+| [3846-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Jagadee33/Leet_Code/tree/master/3846-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3859-maximum-product-of-two-digits](https://github.com/Jagadee33/Leet_Code/tree/master/3859-maximum-product-of-two-digits) |
 | [3879-find-minimum-log-transportation-cost](https://github.com/Jagadee33/Leet_Code/tree/master/3879-find-minimum-log-transportation-cost) |
 ## Dynamic Programming

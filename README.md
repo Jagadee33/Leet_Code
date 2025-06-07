@@ -258,6 +258,7 @@
 ## Design
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/Jagadee33/Leet_Code/tree/master/0225-implement-stack-using-queues) |
 | [0303-range-sum-query-immutable](https://github.com/Jagadee33/Leet_Code/tree/master/0303-range-sum-query-immutable) |
 ## Linked List
 |  |
@@ -273,6 +274,7 @@
 | [0094-binary-tree-inorder-traversal](https://github.com/Jagadee33/Leet_Code/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Jagadee33/Leet_Code/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Jagadee33/Leet_Code/tree/master/0145-binary-tree-postorder-traversal) |
+| [0225-implement-stack-using-queues](https://github.com/Jagadee33/Leet_Code/tree/master/0225-implement-stack-using-queues) |
 ## Tree
 |  |
 | ------- |
@@ -306,4 +308,8 @@
 |  |
 | ------- |
 | [1115-valid-boomerang](https://github.com/Jagadee33/Leet_Code/tree/master/1115-valid-boomerang) |
+## Queue
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/Jagadee33/Leet_Code/tree/master/0225-implement-stack-using-queues) |
 <!---LeetCode Topics End-->

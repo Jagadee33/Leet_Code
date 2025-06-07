@@ -20,6 +20,7 @@
 | [0777-toeplitz-matrix](https://github.com/Jagadee33/Leet_Code/tree/master/0777-toeplitz-matrix) |
 | [0792-binary-search](https://github.com/Jagadee33/Leet_Code/tree/master/0792-binary-search) |
 | [0898-transpose-matrix](https://github.com/Jagadee33/Leet_Code/tree/master/0898-transpose-matrix) |
+| [1115-valid-boomerang](https://github.com/Jagadee33/Leet_Code/tree/master/1115-valid-boomerang) |
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/Jagadee33/Leet_Code/tree/master/1378-cells-with-odd-values-in-a-matrix) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/Jagadee33/Leet_Code/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/Jagadee33/Leet_Code/tree/master/2106-find-greatest-common-divisor-of-array) |
@@ -109,6 +110,7 @@
 | [0628-maximum-product-of-three-numbers](https://github.com/Jagadee33/Leet_Code/tree/master/0628-maximum-product-of-three-numbers) |
 | [0633-sum-of-square-numbers](https://github.com/Jagadee33/Leet_Code/tree/master/0633-sum-of-square-numbers) |
 | [1013-fibonacci-number](https://github.com/Jagadee33/Leet_Code/tree/master/1013-fibonacci-number) |
+| [1115-valid-boomerang](https://github.com/Jagadee33/Leet_Code/tree/master/1115-valid-boomerang) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/Jagadee33/Leet_Code/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1236-n-th-tribonacci-number](https://github.com/Jagadee33/Leet_Code/tree/master/1236-n-th-tribonacci-number) |
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/Jagadee33/Leet_Code/tree/master/1378-cells-with-odd-values-in-a-matrix) |
@@ -298,4 +300,8 @@
 |  |
 | ------- |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Jagadee33/Leet_Code/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
+## Geometry
+|  |
+| ------- |
+| [1115-valid-boomerang](https://github.com/Jagadee33/Leet_Code/tree/master/1115-valid-boomerang) |
 <!---LeetCode Topics End-->

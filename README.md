@@ -217,6 +217,7 @@
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Jagadee33/Leet_Code/tree/master/0020-valid-parentheses) |
 | [0067-add-binary](https://github.com/Jagadee33/Leet_Code/tree/master/0067-add-binary) |
 | [0171-excel-sheet-column-number](https://github.com/Jagadee33/Leet_Code/tree/master/0171-excel-sheet-column-number) |
 | [0205-isomorphic-strings](https://github.com/Jagadee33/Leet_Code/tree/master/0205-isomorphic-strings) |
@@ -271,6 +272,7 @@
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Jagadee33/Leet_Code/tree/master/0020-valid-parentheses) |
 | [0094-binary-tree-inorder-traversal](https://github.com/Jagadee33/Leet_Code/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Jagadee33/Leet_Code/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Jagadee33/Leet_Code/tree/master/0145-binary-tree-postorder-traversal) |

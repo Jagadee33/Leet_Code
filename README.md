@@ -126,6 +126,7 @@
 | [2571-find-the-pivot-integer](https://github.com/Jagadee33/Leet_Code/tree/master/2571-find-the-pivot-integer) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/Jagadee33/Leet_Code/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3321-type-of-triangle](https://github.com/Jagadee33/Leet_Code/tree/master/3321-type-of-triangle) |
+| [3625-stone-removal-game](https://github.com/Jagadee33/Leet_Code/tree/master/3625-stone-removal-game) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/Jagadee33/Leet_Code/tree/master/3676-smallest-number-with-all-set-bits) |
 | [3702-maximum-subarray-with-equal-products](https://github.com/Jagadee33/Leet_Code/tree/master/3702-maximum-subarray-with-equal-products) |
 | [3704-count-partitions-with-even-sum-difference](https://github.com/Jagadee33/Leet_Code/tree/master/3704-count-partitions-with-even-sum-difference) |
@@ -219,6 +220,7 @@
 | [0258-add-digits](https://github.com/Jagadee33/Leet_Code/tree/master/0258-add-digits) |
 | [0898-transpose-matrix](https://github.com/Jagadee33/Leet_Code/tree/master/0898-transpose-matrix) |
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/Jagadee33/Leet_Code/tree/master/1378-cells-with-odd-values-in-a-matrix) |
+| [3625-stone-removal-game](https://github.com/Jagadee33/Leet_Code/tree/master/3625-stone-removal-game) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Jagadee33/Leet_Code/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## String
 |  |

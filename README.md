@@ -56,6 +56,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/Jagadee33/Leet_Code/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0383-ransom-note](https://github.com/Jagadee33/Leet_Code/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Jagadee33/Leet_Code/tree/master/0387-first-unique-character-in-a-string) |
+| [0389-find-the-difference](https://github.com/Jagadee33/Leet_Code/tree/master/0389-find-the-difference) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Jagadee33/Leet_Code/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/Jagadee33/Leet_Code/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Jagadee33/Leet_Code/tree/master/2163-kth-distinct-string-in-an-array) |
@@ -158,6 +159,7 @@
 | ------- |
 | [0067-add-binary](https://github.com/Jagadee33/Leet_Code/tree/master/0067-add-binary) |
 | [0342-power-of-four](https://github.com/Jagadee33/Leet_Code/tree/master/0342-power-of-four) |
+| [0389-find-the-difference](https://github.com/Jagadee33/Leet_Code/tree/master/0389-find-the-difference) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/Jagadee33/Leet_Code/tree/master/3676-smallest-number-with-all-set-bits) |
 ## Two Pointers
 |  |
@@ -195,6 +197,7 @@
 | [0242-valid-anagram](https://github.com/Jagadee33/Leet_Code/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/Jagadee33/Leet_Code/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Jagadee33/Leet_Code/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0389-find-the-difference](https://github.com/Jagadee33/Leet_Code/tree/master/0389-find-the-difference) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Jagadee33/Leet_Code/tree/master/0628-maximum-product-of-three-numbers) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Jagadee33/Leet_Code/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/Jagadee33/Leet_Code/tree/master/2210-find-target-indices-after-sorting-array) |
@@ -227,6 +230,7 @@
 | [0242-valid-anagram](https://github.com/Jagadee33/Leet_Code/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/Jagadee33/Leet_Code/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Jagadee33/Leet_Code/tree/master/0387-first-unique-character-in-a-string) |
+| [0389-find-the-difference](https://github.com/Jagadee33/Leet_Code/tree/master/0389-find-the-difference) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/Jagadee33/Leet_Code/tree/master/1146-greatest-common-divisor-of-strings) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Jagadee33/Leet_Code/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Jagadee33/Leet_Code/tree/master/2163-kth-distinct-string-in-an-array) |

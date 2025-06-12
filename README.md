@@ -38,6 +38,7 @@
 | [3647-zero-array-transformation-iii](https://github.com/Jagadee33/Leet_Code/tree/master/3647-zero-array-transformation-iii) |
 | [3702-maximum-subarray-with-equal-products](https://github.com/Jagadee33/Leet_Code/tree/master/3702-maximum-subarray-with-equal-products) |
 | [3704-count-partitions-with-even-sum-difference](https://github.com/Jagadee33/Leet_Code/tree/master/3704-count-partitions-with-even-sum-difference) |
+| [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/Jagadee33/Leet_Code/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 | [3846-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Jagadee33/Leet_Code/tree/master/3846-minimum-operations-to-make-array-sum-divisible-by-k) |
 ## Hash Table
 |  |

@@ -31,6 +31,7 @@
 | [2210-find-target-indices-after-sorting-array](https://github.com/Jagadee33/Leet_Code/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2486-most-frequent-even-element](https://github.com/Jagadee33/Leet_Code/tree/master/2486-most-frequent-even-element) |
 | [2566-number-of-unequal-triplets-in-array](https://github.com/Jagadee33/Leet_Code/tree/master/2566-number-of-unequal-triplets-in-array) |
+| [2720-minimize-the-maximum-difference-of-pairs](https://github.com/Jagadee33/Leet_Code/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [2844-sum-of-squares-of-special-elements](https://github.com/Jagadee33/Leet_Code/tree/master/2844-sum-of-squares-of-special-elements) |
 | [3194-find-words-containing-character](https://github.com/Jagadee33/Leet_Code/tree/master/3194-find-words-containing-character) |
 | [3321-type-of-triangle](https://github.com/Jagadee33/Leet_Code/tree/master/3321-type-of-triangle) |
@@ -85,6 +86,7 @@
 | [0792-binary-search](https://github.com/Jagadee33/Leet_Code/tree/master/0792-binary-search) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/Jagadee33/Leet_Code/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/Jagadee33/Leet_Code/tree/master/2210-find-target-indices-after-sorting-array) |
+| [2720-minimize-the-maximum-difference-of-pairs](https://github.com/Jagadee33/Leet_Code/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -251,6 +253,7 @@
 ## Greedy
 |  |
 | ------- |
+| [2720-minimize-the-maximum-difference-of-pairs](https://github.com/Jagadee33/Leet_Code/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [3647-zero-array-transformation-iii](https://github.com/Jagadee33/Leet_Code/tree/master/3647-zero-array-transformation-iii) |
 ## Heap (Priority Queue)
 |  |

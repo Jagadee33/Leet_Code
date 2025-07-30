@@ -23,6 +23,7 @@
 | [1115-valid-boomerang](https://github.com/Jagadee33/Leet_Code/tree/master/1115-valid-boomerang) |
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/Jagadee33/Leet_Code/tree/master/1378-cells-with-odd-values-in-a-matrix) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/Jagadee33/Leet_Code/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
+| [2104-operations-on-tree](https://github.com/Jagadee33/Leet_Code/tree/master/2104-operations-on-tree) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/Jagadee33/Leet_Code/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/Jagadee33/Leet_Code/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Jagadee33/Leet_Code/tree/master/2163-kth-distinct-string-in-an-array) |
@@ -59,6 +60,7 @@
 | [0387-first-unique-character-in-a-string](https://github.com/Jagadee33/Leet_Code/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/Jagadee33/Leet_Code/tree/master/0389-find-the-difference) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Jagadee33/Leet_Code/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
+| [2104-operations-on-tree](https://github.com/Jagadee33/Leet_Code/tree/master/2104-operations-on-tree) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/Jagadee33/Leet_Code/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Jagadee33/Leet_Code/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2177-check-whether-two-strings-are-almost-equivalent](https://github.com/Jagadee33/Leet_Code/tree/master/2177-check-whether-two-strings-are-almost-equivalent) |
@@ -274,6 +276,7 @@
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Jagadee33/Leet_Code/tree/master/0225-implement-stack-using-queues) |
 | [0303-range-sum-query-immutable](https://github.com/Jagadee33/Leet_Code/tree/master/0303-range-sum-query-immutable) |
+| [2104-operations-on-tree](https://github.com/Jagadee33/Leet_Code/tree/master/2104-operations-on-tree) |
 ## Linked List
 |  |
 | ------- |
@@ -302,6 +305,7 @@
 | [0145-binary-tree-postorder-traversal](https://github.com/Jagadee33/Leet_Code/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/Jagadee33/Leet_Code/tree/master/0226-invert-binary-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Jagadee33/Leet_Code/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [2104-operations-on-tree](https://github.com/Jagadee33/Leet_Code/tree/master/2104-operations-on-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -314,6 +318,7 @@
 | [0145-binary-tree-postorder-traversal](https://github.com/Jagadee33/Leet_Code/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/Jagadee33/Leet_Code/tree/master/0226-invert-binary-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Jagadee33/Leet_Code/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [2104-operations-on-tree](https://github.com/Jagadee33/Leet_Code/tree/master/2104-operations-on-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -350,4 +355,5 @@
 | [0101-symmetric-tree](https://github.com/Jagadee33/Leet_Code/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Jagadee33/Leet_Code/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/Jagadee33/Leet_Code/tree/master/0226-invert-binary-tree) |
+| [2104-operations-on-tree](https://github.com/Jagadee33/Leet_Code/tree/master/2104-operations-on-tree) |
 <!---LeetCode Topics End-->
